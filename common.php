@@ -164,4 +164,16 @@ $lang_common = array(
 // For official extensions
 'Official extensions inst'	=>	'<span id="extensions-used" title="%1$s">Extensions officielles : %2$s installées.</span>',
 
+// Error message
+'Forum error header'		=> 'Désolé! La page ne peut être chargée.',
+'Forum error description'	=> 'C\'est probablement une erreur temporaire. Rafraichissez la page. Si le problème persiste, vérifiez à nouveau dans 5-10 minutes.',
+'Forum error location'		=> 'L\'erreur s\'est produite line %1$s dans %2$s',
+'Forum error db reported'	=> 'La base de donnée a retourné:',
+'Forum error db query'		=> 'Requête en erreur:',
+
+// Menu
+'Menu admin'		=> 'Menu Admin',
+'Menu profile'		=> 'Menu Profile',
+
+
 );
